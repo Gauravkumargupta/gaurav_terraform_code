@@ -130,7 +130,7 @@ resource "aws_security_group_rule" "outbound_all" {
   cidr_blocks = ["0.0.0.0/0"]
 }
 
-#Step5: Provides a Load Balancer Listener resource
+#Step5: Provides a Load Balancer Listener resource:
 
 resource "aws_lb_listener" "my-test-alb-listner" {
   load_balancer_arn = "${aws_lb.my-aws-lb.arn}"
