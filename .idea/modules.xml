@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CF/.idea/CF.iml" filepath="$PROJECT_DIR$/../CF/.idea/CF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Udemy/.idea/Python_Udemy.iml" filepath="$PROJECT_DIR$/../Python_Udemy/.idea/Python_Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Terraform.iml" filepath="$PROJECT_DIR$/.idea/Terraform.iml" />
+    </modules>
+  </component>
+</project>
