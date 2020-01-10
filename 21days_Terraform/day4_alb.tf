@@ -109,7 +109,7 @@ resource "aws_security_group_rule" "inbound_ssh" {
   security_group_id = "${aws_security_group.my-alb-sg.id}"
   to_port = 22
   type = "ingress"
-  cidr_blocks = [0.0.0.0/0]
+  cidr_blocks = ["0.0.0.0/0"]
 }
 
 resource "aws_security_group_rule" "inbound_http" {
@@ -118,7 +118,7 @@ resource "aws_security_group_rule" "inbound_http" {
   security_group_id = "${aws_security_group.my-alb-sg.id}"
   to_port = 80
   type = "ingress"
-  cidr_blocks = [0.0.0.0/0]
+  cidr_blocks = ["0.0.0.0/0"]
 }
 
 resource "aws_security_group_rule" "outbound_all" {
@@ -127,7 +127,7 @@ resource "aws_security_group_rule" "outbound_all" {
   security_group_id = "${aws_security_group.my-alb-sg.id}"
   to_port = 0
   type = "egress"
-  cidr_blocks = [0.0.0.0/0]
+  cidr_blocks = ["0.0.0.0/0"]
 }
 
 #Step5: Provides a Load Balancer Listener resource
