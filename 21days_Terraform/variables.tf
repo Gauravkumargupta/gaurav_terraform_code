@@ -11,3 +11,15 @@ variable "private_cidrs" {
   type = "list"
   default = ["10.0.3.0/24", "10.0.4.0/24"]
 }
+
+variable "alarms_email" {
+
+}
+
+variable "sns_topic" {
+
+}
+
+variable "instance_id" {
+
+}

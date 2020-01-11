@@ -23,7 +23,7 @@ module "vpc" {
 
 */
 
-Example: Day-3
+#Example: Day-3
 
 module "ec2" {
   source = ""
@@ -33,3 +33,8 @@ module "ec2" {
   subnets = "${module.ec2.pulic_subnets}"
 }
 
+#Day-6
+module "sns_topic" {
+  source = "day6_SNS.tf"
+  alarms_email = "kumargaurav1247@gmail.com"
+}

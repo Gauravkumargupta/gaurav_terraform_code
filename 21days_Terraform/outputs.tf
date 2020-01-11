@@ -30,3 +30,7 @@ output "subnet1" {
 output "subnet2" {
   value = "${element(aws_subnet.public_subnet.*.id,2 )}"
 }
+
+output "sns_arn" {
+  value = "${aws_sns_topic.my-test-alarm.arn}"
+}
