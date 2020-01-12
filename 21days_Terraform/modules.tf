@@ -35,6 +35,14 @@ module "ec2" {
 
 #Day-6
 module "sns_topic" {
-  source = "day6_SNS.tf"
+  source = ""
   alarms_email = "kumargaurav1247@gmail.com"
+}
+
+#Day-10
+module "route53" {
+  source = ""
+  hostname = ["test1", "test2"]
+  arecord = ["10.0.1.11", "10.0.1.12"]
+  vpc_id = "${module.vpc.vpc_id}"
 }
