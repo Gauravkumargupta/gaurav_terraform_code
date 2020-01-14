@@ -33,3 +33,12 @@ variable "hostname" {
 variable "arecord" {
   type = "list"
 }
+
+variable "username" {
+  type = "list"
+  default = ["gaurav","virat","gautam"]
+}
+
+variable "s3_bucket_name" {
+
+}
