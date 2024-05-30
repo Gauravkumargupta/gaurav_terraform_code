@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gaurav-gcp-cloud-project",
+  "private_key_id": "a16d2816005c449fc16d83c7581cca3f2d319900",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDk6SIy+wxnJhN3\ncdl9Y/oBK4XmJR+a5Y2kxOcoU4nh2KqFSy1VJ0uYixoPFyr7Zh1IMS5RtykfcFCH\nmckLiZUhU/VfxFaIRHP8rDzy48NL2Oj7qwte4Nd5Qu69V67BFxu9rbMgvYnmUEHV\ntvgk1kunkzb5bodoT3+Jazg5FTgk+oSr8gq262GhobqIL178W01sbv/U+kUrEO/o\nNOIYT0wKAe1Jx7DOj+GnlzOGhF+Q2B3e6qs3c+VKBCua45XgQfPesBo75dd8/acP\njjyLWo6WTPEtfQ6b9i0BYSCqHQjWQ7sP/fnkf4ieXd3ciNT2DMnINyJAxuZCSu9d\nhcToe8oHAgMBAAECggEADHlf3GNYiQPG1SAmd/Igx5DgRRW0zoi/2pYYUAGYEUSb\nVj7Yg5Fr9INwB259xcwKFcsITnpVYASLfuLfKnp0M/1n8QYOqR0B170TEoay4nPk\nOQKt0J0eti7y5O0y9WFq/j/JnnkgW0/4USByuUnW6ZTYzr2P3MaoQ+F3ON/H0CFJ\nqxmygcrCBpUC3z+uCOUmf30TDDMAQmMxF3ihZ2eC2heDtQqUfiwpeyY+ET4Yd2Qs\nPp3kra9or8DzLuaze43kj5BijYTLj8f7hMeoywwBDxKKYbP9LjsT41dR3sMQmyge\n0l/m0lp2VrXZD2OzVx9hxFj7EZrKeI8Z8TeYWeJGoQKBgQD5Tnq0O7pPQSpsI04m\nFa7V6xo0m5TbtIjX5pAaTSQP2h7196EmSCads4rI/zkoln0LhC4OT1euLhxK5bC0\nn9AyHKkBH7ouvFxkQ0onepuVQz6Tj4KOTpsyg9EYEoIH+/cMkrUF3Eidm4oGadwe\nDovF6DdJei53G6TNf9Szqaqk6QKBgQDrDnhq0+QZNcPOWf4KvpcZ8Dratjb6HPf0\nc9Q4C4V899pUtNwe8r9O/nA0qR2xlz7a6V+3RJ8UbVzLpN0SsaamXdgdOgl2DlFo\n4Mcx+WqGabBDOH+G+grgm3BoHUwB41/9TdPVt1xhxo20kdNe0eZbfVv52dD2Pw0s\nyV3+vbJhbwKBgQCgWEh1OWEX7lrBmGd/+Tws2/xLz7ELKe9FpUYTlH/YLjrxiiY8\nf/VOQpbFtdlmcHvWd1pD2+YR4hhSV66yTYNTZ7mPPn+55W4rElhUUfhVJR3PPGME\n8ivBbqSCLg0x422+yXDiZw7RR6ObgmSPdF2TmUpN2OaftsjlXw1HzJ0zWQKBgAta\nBoy6MPDavNsRU4h3TdrN1DnNxPftQDhJA721KLwxSBUBKwQ/mueYuBiC9lEmSb3O\nuXWjVb9pzKp1CswlUjQEojQ/IkfWRy42dMhAEFnvbrjAWMBPAQl52ELe71XEAlW8\nVXejxE1ghmVrCXcx0dsnQbLeRw4tW1iHXQe5Z4z3AoGASsT+Rzboc7vYJCJi1J/x\nTy7Ed45WNc/al6RlnygB2C/mmmfjUNjTwRH12Rjb2FiMUEcsRiBJJR8FckYov0CL\nQNxObkdeGIXDwgSvQBJw5vBS184Mz1R44qhV8ba+zuhKy7l3BnIEbcq1GVmNpBqg\nc9xKPRC/RNRg22pmXxkTl5Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "testkeyexposure@gaurav-gcp-cloud-project.iam.gserviceaccount.com",
+  "client_id": "110344105704265518685",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testkeyexposure%40gaurav-gcp-cloud-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
